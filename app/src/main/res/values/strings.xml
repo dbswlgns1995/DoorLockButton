@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DoorLockButton</string>
+    <string name="input_password">Please enter your password</string>
+</resources>
